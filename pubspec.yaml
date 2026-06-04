@@ -12,7 +12,7 @@ dependencies:
   flutter_localizations:
     sdk: flutter
   adhan: ^2.1.0
-  quran: ^3.1.0
+  quran: ^1.2.3
   geolocator: ^10.1.0
   flutter_compass: ^0.8.0
   flutter_qiblah: ^2.0.4
